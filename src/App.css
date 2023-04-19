@@ -1,0 +1,13 @@
+.App {
+  background-color: #1f80fd;
+  min-height: 100vh;
+}
+
+h2 {
+  font-size: 24px;
+  color: #fff;
+}
+
+#bold {
+  color: #000;
+}
